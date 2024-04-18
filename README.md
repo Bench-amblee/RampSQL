@@ -12,4 +12,4 @@ You can use these SQL queries by copying the contents of the respective files an
 
 ## Acknowledgments
 
-Thank you for considering my application. Feel free to reach out if you have any questions or feedback [email](mailto:ben@benchamblee.blog) if you have any questions or feedback.
+Thank you for considering my application. Feel free to reach out ([email](mailto:ben@benchamblee.blog)) if you have any questions or feedback.
